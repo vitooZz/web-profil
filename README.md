@@ -21,7 +21,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/web-profil.git
+git clone https://github.com/vitooZz/web-profil.git
 Install dependencies:
 
 [Instructions on any dependencies]
