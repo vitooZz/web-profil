@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
+<link rel="stylesheet" href="styles.css">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Data Inventory - SMK Teuku Umar</title>
@@ -33,7 +34,8 @@
 
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">SMK TEUKU UMAR</a>
+  <img src="img/logofac.png" alt="SMK TEUKU UMAR" height="40">
+  <span class="brand-text">SMK TEUKU UMAR</span>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
       <span class="navbar-toggler-icon"></span>
     </button>
